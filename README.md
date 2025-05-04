@@ -4,7 +4,7 @@
 </p>
 
 <!-- Saudações -->
-<h1 align="center">👋 Olá, bem-vindo ao meu GitHub!</h1>
+<h1 align="center">👋 Bem-vindo ao meu GitHub!</h1>
 <p align="center">💻 Desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.</p>
 
 <!-- Contatos e redes -->
