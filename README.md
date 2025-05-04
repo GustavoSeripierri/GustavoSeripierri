@@ -21,7 +21,7 @@
 
 ### 🚀 Sobre mim
 
-- 🌱 Atualmente estou aprendendo: `React.js`, `Ciência de Dados`
+- 🌱 Atualmente estou aprendendo: `React.js`, `Data Science`
 - 💡 Interesses: IA, Web Development, Engenharia de Software, Ciência de Dados, Machine Learning e Estatística
 - 📘 Sempre estudando algo novo e buscando desafios
 - ⚡ Curiosidade: Amo praticar esportes ⚽ e academia 🏋️‍♀️, adoro automobilismo 🏎
